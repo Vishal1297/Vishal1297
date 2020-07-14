@@ -15,6 +15,8 @@ I enjoy generating new ideas and finding feasible solutions to broadly relevant 
 - 💬 Ask me about Tech, Programming, Drawing and Sports.
 - ⚡ Technologies: Java, Python, HTML, CSS, JavaScript.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1297&hide=["stars"]&show_icons=true)
+
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Vishal1297.Vishal1297" alt="visitor badge"/>
 </p>
