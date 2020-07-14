@@ -17,10 +17,6 @@ I enjoy generating new ideas and finding feasible solutions to broadly relevant 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1297&hide=["stars"]&show_icons=true)
 
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Vishal1297.Vishal1297" alt="visitor badge"/>
-</p>
-
 <!--
 **Vishal1297/Vishal1297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
