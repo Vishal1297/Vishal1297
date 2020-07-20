@@ -1,5 +1,5 @@
 <p  align="center">
-  <img src="quote.png" alt="quote" width="100%" height="425" />
+  <img src="quote.png" alt="quote" height="430" width="1000" />
 </p>
 
 # Vishal Yadav
