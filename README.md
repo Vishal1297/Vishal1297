@@ -1,5 +1,5 @@
 <p  align="center">
-  <img src="/quote.png" alt="banner" width="100%" height="425" />
+  <img src="https://github.com/Vishal1297/Vishal1297/blob/master/quote.png" alt="banner" width="100%" height="425" />
 </p>
 
 # Vishal Yadav
