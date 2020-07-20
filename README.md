@@ -1,3 +1,7 @@
+<p  align="center">
+  <img src="quote.png" alt="quote" width="100%" height="425" />
+</p>
+
 # Vishal Yadav
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Vishal1297)](https://github.com/Vishal1297)
