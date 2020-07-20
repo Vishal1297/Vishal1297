@@ -1,4 +1,6 @@
-![Banner](quote.png)
+<p  align="center">
+  <img src="/quote.png" alt="banner" width="100%" height="425" />
+</p>
 
 # Vishal Yadav
 
