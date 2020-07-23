@@ -1,7 +1,3 @@
-<p  align="center">
-  <img src="https://github.com/Vishal1297/Vishal1297/blob/master/quote.png" alt="banner" width="100%" height="425" />
-</p>
-
 # Vishal Yadav
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Vishal1297)](https://github.com/Vishal1297)
