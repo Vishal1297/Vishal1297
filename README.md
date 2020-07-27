@@ -16,9 +16,12 @@ I enjoy generating new ideas and finding feasible solutions to broadly relevant 
 - 💬 Ask me about Tech, Programming, Drawing and Sports.
 - ⚡ Technologies: Java, Python, HTML, CSS, JavaScript.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1297&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1297&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal1297&hide=TeX&layout=compact)
 
 ![Profile Views](https://gpvc.arturio.dev/Vishal1297)
+
 <a href="https://github.com/CodeAndDebug">
  <img src="https://avatars3.githubusercontent.com/u/66091133?s=400&u=c0c90d6389ce38a574435ea8c5a69deeaafa32da&v=4" width="20" align="left" alt="org">
 </a>
