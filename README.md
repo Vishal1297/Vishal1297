@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamvishalyadav/)](https://www.linkedin.com/in/iamvishalyadav/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishal.yadav.developer@gmail.com)](mailto:vishal.yadav.developer@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f797a5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ivishal.yadav/)](https://www.instagram.com/ivishal.yadav)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vishal1297?label=Follow&style=social)](https://twitter.com/iVishal_Yadav)
 
 ## Hi 👋,
 
@@ -16,6 +17,11 @@ I enjoy generating new ideas and finding feasible solutions to broadly relevant 
 - ⚡ Technologies: Java, Python, HTML, CSS, JavaScript.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1297&show_icons=true)
+
+![Profile Views](https://gpvc.arturio.dev/Vishal1297)
+<a href="https://github.com/CodeAndDebug">
+ <img src="https://avatars3.githubusercontent.com/u/66091133?s=400&u=c0c90d6389ce38a574435ea8c5a69deeaafa32da&v=4" width="20" align="left" alt="org">
+</a>
 
 <!--
 **Vishal1297/Vishal1297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
