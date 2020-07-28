@@ -20,9 +20,6 @@ I enjoy generating new ideas and finding feasible solutions to broadly relevant 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal1297&hide=TeX&layout=compact)
 
 ![Profile Views](https://gpvc.arturio.dev/Vishal1297)
-<a href="https://github.com/CodeAndDebug">
- <img src="https://avatars3.githubusercontent.com/u/66091133?s=400&u=c0c90d6389ce38a574435ea8c5a69deeaafa32da&v=4" width="20" align="left" alt="org">
-</a>
 
 <!--
 **Vishal1297/Vishal1297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
