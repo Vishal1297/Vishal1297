@@ -8,13 +8,11 @@
 
 ## Hi 👋,
 
-I'm Vishal Yadav who likes to code. My expertise includes software development using Java and little bit of designing.
-I enjoy generating new ideas and finding feasible solutions to broadly relevant problems.
-
 - 🌱 I’m currently learning Spring Boot.
 - 👯 I’m looking to collaborate on Java Projects.
 - 💬 Ask me about Tech, Programming, Drawing and Sports.
 - ⚡ Technologies: Java, Python, HTML, CSS, JavaScript.
+- ⚡ Fun fact: Tabs are better than spaces.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1297&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal1297&hide=TeX&layout=compact)
