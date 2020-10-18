@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1U_neDvVbdYPF83csd5OgZz-ZODE1lcJq/view?usp=sharing](https://drive.google.com/file/d/1U_neDvVbdYPF83csd5OgZz-ZODE1lcJq/view?usp=sharing)
 
-- ⚡ Fun fact **Tabs are better than spaces.**
+- ⚡ Fun fact **Tabs are better than spaces.** 🤡
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
