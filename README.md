@@ -11,13 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 👨‍💻 All of my projects are available at [https://vishal1297.github.io/](https://vishal1297.github.io/)
-
 - 💬 Ask me about **Tech, Programming, Drawing and Sports**
 
 - 📫 How to reach me **vishalyadav1746@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U_neDvVbdYPF83csd5OgZz-ZODE1lcJq/view?usp=sharing](https://drive.google.com/file/d/1U_neDvVbdYPF83csd5OgZz-ZODE1lcJq/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://bit.ly/3dKdPxX)
 
 - ⚡ Fun fact **Tabs are better than spaces.** 🤡
 
