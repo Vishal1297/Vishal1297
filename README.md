@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/iamvishalyadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamvishalyadav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishal_yadav_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishal_yadav_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vishal1297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="vishal1297" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishal_yadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vishal_yadav" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ivishalyadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ivishalyadav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
