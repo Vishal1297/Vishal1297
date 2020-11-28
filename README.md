@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **vishalyadav1746@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://bit.ly/3dKdPxX)
-
 - ⚡ Fun fact **Tabs are better than spaces.** 🤡
 
 <p align="left">
