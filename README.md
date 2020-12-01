@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ivishal_yadav" target="blank"><img src="https://img.shields.io/twitter/follow/ivishal_yadav?logo=twitter&style=for-the-badge" alt="ivishal_yadav" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
