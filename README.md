@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **Java Projects**
+<!--- - 👯 I’m looking to collaborate on **Java Projects** --->
 
 - 💬 Ask me about **Tech, Programming, Drawing and Sports**
 
