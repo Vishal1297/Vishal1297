@@ -14,8 +14,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1297&label=Profile%20views&color=0e75b6&style=flat" alt="vishal1297" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ivishal_yadav" target="blank"><img src="https://img.shields.io/twitter/follow/ivishal_yadav?logo=twitter&style=for-the-badge" alt="ivishal_yadav" /></a> </p>
+[![wakatime](https://wakatime.com/badge/user/fbd3fb0c-d960-4f53-bb73-a757a23ae7c1.svg)](https://wakatime.com/@fbd3fb0c-d960-4f53-bb73-a757a23ae7c1)
 
+<p align="left"> <a href="https://twitter.com/ivishal_yadav" target="blank"><img src="https://img.shields.io/twitter/follow/ivishal_yadav?logo=twitter&style=for-the-badge" alt="ivishal_yadav" /></a> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal1297&layout=compact&hide=css,html&theme=onedark)
 
