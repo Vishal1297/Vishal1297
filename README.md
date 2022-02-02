@@ -24,6 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1297&theme=onedark" alt="vishal1297" /></p>
 
+<p><img alt="my activity graph" src="https://activity-graph.herokuapp.com/graph?username=vishal1297&bg_color=282C34&color=C6A66F&line=DE6C73&point=FFFFFF&hide_border=true" /></p>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/ivishal_yadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ivishal_yadav" height="30" width="40" /></a>
