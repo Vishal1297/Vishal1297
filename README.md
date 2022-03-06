@@ -4,7 +4,7 @@
 
 [![Git Stars](https://git-stars.com/share/embed/Vishal1297.svg)](https://git-stars.com/user/Vishal1297)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin, Spring Boot**
 
 - 💬 Ask me about **Tech, Programming, Drawing and Sports**
 
@@ -28,9 +28,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/ivishal_yadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ivishal_yadav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamvishalyadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamvishalyadav" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishal_yadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishal_yadav" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vishal1297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="vishal1297" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ivishalyadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ivishalyadav" height="30" width="40" /></a>
+<a href="https://twitter.com/ivishal_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamvishalyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miklos-szeles" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10976791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18109361" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishal_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="b" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ivishalyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vishal1297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cd" height="30" width="40" /></a>
 </p>
