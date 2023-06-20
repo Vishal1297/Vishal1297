@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Java 11, Spring Boot & ReactJs**
+- 🌱 I’m currently learning **Golang & ReactJs**
 
 - 📫 How to reach me **vishal.yadav.developer@gmail.com**
 
