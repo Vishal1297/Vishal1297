@@ -1,12 +1,12 @@
-<h2 align="left">Hi, I'm Vishal 👋</h2>
-<p style="font-size: 1.8em;"><strong>Connect with Me</strong></p>
-<p align="left">
-<a href="https://twitter.com/ivishal_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivishal_yadav" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/iamvishalyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamvishalyadav" height="50" width="50" /></a>
-</p>
+<h3 align="left">Hi, I'm Vishal 👋</h3>
+
+**Connect with Me**
+
+- [Twitter](https://twitter.com/ivishal_yadav) ![Twitter](https://img.shields.io/badge/Twitter-@ivishal_yadav-000000?style=flat-square&logo=twitter&logoColor=white)
+- [LinkedIn](https://linkedin.com/in/iamvishalyadav) ![LinkedIn](https://img.shields.io/badge/LinkedIn-iamvishalyadav-000000?style=flat-square&logo=linkedin&logoColor=white)
+- [GitHub](https://github.com/Vishal1297) ![GitHub](https://img.shields.io/badge/GitHub-Vishal1297-000000?style=flat-square&logo=github&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=Vishal1297&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vishal1297&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal1297&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal1297&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
