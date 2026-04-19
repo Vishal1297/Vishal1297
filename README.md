@@ -7,6 +7,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Isn’t Hard - Your Thinking Is](https://medium.com/@ivishalyadav/debugging-isnt-hard-your-thinking-is-054c7597f901?source=rss-edb523dacee5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
